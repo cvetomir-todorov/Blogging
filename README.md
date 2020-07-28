@@ -1,1 +1,1 @@
-The master branch is kept clean. Each blog post has a separate branch.
+The [dev.to post](https://dev.to/cvetomirtodorov/net-reflection-performance-1ddc) for this repo.
